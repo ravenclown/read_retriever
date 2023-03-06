@@ -6,6 +6,7 @@ usage :
     snakemake --use-conda -j {threads}
 ```
 supports:
+
     an SRA/EBI/DDJ accession
         (SRR, SRX, SRS or SRP)
         (ERR, ERX, ERS or ERP)
