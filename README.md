@@ -2,8 +2,9 @@
 1 rule snakefile for retrieving read files from databases, add the corresponding accession number to config file.
 
 usage : 
+```shell
     snakemake --use-conda -j {threads}
-
+```
 supports:
     an SRA/EBI/DDJ accession
         (SRR, SRX, SRS or SRP)
